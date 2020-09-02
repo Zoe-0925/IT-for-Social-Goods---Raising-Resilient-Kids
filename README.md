@@ -1,1 +1,2 @@
->> Please note that the sports php file does not have the google maps javascript API included and is left blank.
+Demo: 
+![alt text](https://github.com/Zoe-0925/IT-for-Social-Goods---Raising-Resilient-Kids/edit/master/assets/images/Demo-1.png?raw=true)
