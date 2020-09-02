@@ -1,6 +1,7 @@
 #Raising Resilient Kids
 
 Learning a foreign language to communicate like a native is hard.
+
 Immigranting in a young age and adapting to a foreign school life requires even more resilience.
 
 This website is designed and developed to aim to help Chinese immigrant kids in Victoria, Australia to adapt well and grow with confidence.
