@@ -6,7 +6,7 @@ Immigranting in a young age and adapting to a foreign school life requires even 
 
 This website is designed and developed to aim to help Chinese immigrant kids in Victoria, Australia to adapt well and grow with confidence.
 
-###### Demo:https://raising-resilient-kids.herokuapp.com/
+### Demo:  https://raising-resilient-kids.herokuapp.com/
 
 ## Tech Stack:
 ###### HTML, CSS, jQuery, PHP, MySQL, Apache Server
